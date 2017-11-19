@@ -8,7 +8,7 @@
  
  A farm requires additional attention to manage its productive units (plots of land), 
  time sensitive crop activities (such as planting, irrigating, fertilizing, etc.), 
- recordingenvironmental and crop data for analysis, and reports to help make effective 
+ recording environmental and crop data for analysis, and reports to help make effective 
  decisions.
  
  ## What is Agri Farm?
