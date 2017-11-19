@@ -110,26 +110,11 @@ We shall give it a descriptive name, to differentiate it from Crop Cycles we mig
 ⋅⋅* Land Unit: **Carrot Field 1** 
 ⋅⋅* Crop: **Carrot**
 ⋅⋅* Leave the **ISO 8016 Standard** (week count) box unchecked
-⋅⋅* Crop Spacinglick **Save** ![Save Button](assets/img/save-button.png "Save")
+⋅⋅* Skip the next four fields for Crop Spacing
+⋅⋅* Leave Project field empty
+⋅⋅* Select the start date from the calendar field.
+⋅⋅* **Save** ![Save Button](assets/img/save-button.png "Save") the new Crop Cycle
 
-3. With the farm created, we can now create our first Carrot Field!
-Click on **New** ![New Button](assets/img/new-button.png "New")
+4. Repeat step 2 for every Crop Cycle you need.
 
-The New Land Unit Dialog pops up again
-
-⋅⋅* In the Land Unit Name type: **Carrot Field 1**
-⋅⋅* In **Parent Land Unit** type and select the one we just created in step two: **Carrot Farm**
-⋅⋅* Leave the **Is Group** box unchecked
-⋅⋅* Click **Save** ![Save Button](assets/img/save-button.png "Save")
-
-4. Repeat step 3 for as many fields as you need.
-
-
- * Do that
- * Do something else
- * Do different
- * Do more
- * Feel exhausted
- * Rest
- 
-Back to [Agri Farm ERPNext Documentation - (proposed)](Agri-Farm-ERPNext-Proposed-Doc) - [Previous Page](02-land-unit) - [Next Page](04-Crops)
+Back to [Agri Farm ERPNext Documentation - (proposed)](Agri-Farm-ERPNext-Documentation) - [Previous Page](01-introduction) - [Next Page](03-land-unit)
